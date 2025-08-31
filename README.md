@@ -298,7 +298,7 @@
 
   <div class="cta">
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSdl2KTyULymW6zRVk4Xv-ox8Sfe1R9bea6HzHxeh9FsABjt3g/viewform?usp=header" target="_blank">
-      📝 Fill Our Festive Feedback Form!
+      📝 Fill The Form!
     </a>
   </div>
 
